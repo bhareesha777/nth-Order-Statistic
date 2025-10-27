@@ -1,4 +1,4 @@
-Program that finds the "n"th Order Statistic in a data set of Integers (the nth smallest value). Utilizing QuickSort implementing random pivot element.
+Program that finds the "n"th Order Statistic (the nth smallest value), in a data set of Integers. Utilizing QuickSort implementing random pivot element.
 
 Command Line Useable - requires Java
 
